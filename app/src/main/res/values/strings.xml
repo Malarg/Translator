@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="translate_api_key">trnsl.1.1.20170412T065552Z.3150d51b662491ad.24ce66bb3da3d4ed33b2c6fae0e91beecc6193a5</string>
+    <string name="type_your_text_here">Type your text here...</string>
+</resources>
